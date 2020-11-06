@@ -1,3 +1,4 @@
 # hello-world
-TOP project to create repository
-block of text / learning on 'The Odin Project' to design websites, learn to code.
+TOP project to create a repository
+Learning using 'The Odin Project' resource to design websites.
+Javascript.
